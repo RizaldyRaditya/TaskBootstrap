@@ -1,0 +1,31 @@
+body {
+    margin-left: 700px;
+    margin-top: 200px;
+    padding: 0;
+}
+
+.main {
+    padding: 15px;
+    background-color: rgb(46, 204, 113);
+    border-radius: 15px;
+    width: 350px !important;
+    margin-left: 700px;
+    margin-top: 200px;
+}
+
+.rowPad {
+    padding: 2px;
+}
+
+.resutCSS {
+    font-size: 15pt !important;
+    text-align: right !important;
+    font-weight: bold !important;
+    color: rgb(44, 62, 80) !important;
+    width: 300px;
+}
+
+.heading {
+    color: rgb(236, 240, 241);
+    text-align: center;
+}
